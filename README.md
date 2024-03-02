@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
+- 🔭 I’m currently working on [Vision Pro Clone](https://github.com/Leader437/Vision-pro.git)
+
 - 🌱 I’m currently learning **Scss**
 
 - 👨‍💻 All of my projects are available at [https://main-portfolio-liart-nine.vercel.app/](https://main-portfolio-liart-nine.vercel.app/)
 
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **Html, Css, Scss, Javascript**
 
 - 📫 How to reach me **contactleader786@gmail.com**
 
@@ -23,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leader437&show_icons=true&locale=en&layout=compact" alt="leader437" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leader437&theme=dark" alt="leader437" /></p>
