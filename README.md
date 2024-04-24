@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vision Pro Clone](https://github.com/Leader437/Vision-pro.git)
 
-- 🌱 I’m currently learning **Scss**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://main-portfolio-liart-nine.vercel.app/](https://main-portfolio-liart-nine.vercel.app/)
 
