@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Refurbed Remaster](https://github.com/Leader437/Refurbed-Remaster.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://main-portfolio-liart-nine.vercel.app/](https://main-portfolio-liart-nine.vercel.app/)
 
-- 💬 Ask me about **Html, Css, Scss, Javascript**
+- 💬 Ask me about **Html, Css, Scss, Javascript, React**
 
 - 📫 How to reach me **contactleader786@gmail.com**
 
