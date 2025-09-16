@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saif ur Rehman Zahid</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Refurbed Remaster](https://github.com/Leader437/Refurbed-Remaster.git)
+- 🔭 I’m currently working on [FinTracker](https://github.com/Leader437/fintracker.git)
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://main-portfolio-liart-nine.vercel.app/](https://main-portfolio-liart-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://saifurrehmanzahid.me/Main-Portfolio/)
 
 - 💬 Ask me about **Html, Css, Scss, Javascript, React**
 
-- 📫 How to reach me **contactleader786@gmail.com**
+- 📫 How to reach me **connect.saifurrehman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
