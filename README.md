@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saif ur Rehman Zahid</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [FinTracker](https://github.com/Leader437/fintracker.git)
+- 🔭 I’m currently working on [BarakahAid](https://github.com/Leader437/BarakahAid.git)
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](http://saifurrehmanzahid.me/Main-Portfolio/)
 
